@@ -1,0 +1,3 @@
+[submodule "season"]
+	path = season
+	url = https://github.com/vamsigutha/season.git
